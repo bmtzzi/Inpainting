@@ -9,7 +9,7 @@ Inpainting using search of texture information
 Bruno Manias Trazzi
 
 ### Objective
-Image reconstruction using inpainting techiques
+Image reconstruction using inpainting techniques
 
 ### Application
 The recontruction of an image that has missing pixels or informations that should be removed, such as objects that are unwanted on the scene, or effects that interfered in the image acquisition, etc.
